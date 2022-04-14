@@ -112,6 +112,10 @@ const config = {
                 to: 'https://forum.cogsci.nl/categories/jatos',
               },
               {
+                label: 'Slack',
+                to: 'https://communityinviter.com/apps/jatosworkspace/jatos-slack',
+              },
+              {
                 label: 'Google Group',
                 to: 'https://groups.google.com/g/jatos',
               },
