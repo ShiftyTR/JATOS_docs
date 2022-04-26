@@ -13,7 +13,50 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022
 
-Vandendaele, A., Grainger, J. (2022). Now you see it, now you don't: Flanker presence induces the word concreteness effect. *Cognition*. 218. 104945. [DOI](10.1016/j.cognition.2021.104945).
+Marocchini E., Domaneschi F. (2022) “Can you read my mind?” Conventionalized indirect requests and Theory of Mind abilities *Journal of Pragmatics* [DOI](https://doi.org/10.1016/j.pragma.2022.03.011)
+
+Vainre M, Galante J, Watson P, et al (2022). Protocol for the Work Engagement and Well-being Study (SWELL): a randomised controlled feasibility trial evaluating the effects of mindfulness versus light physical exercise at work. *BMJ Open*; [DOI](https://doi.org/10.1136/bmjopen-2021-050951)
+
+Xie, T., Fu, S. & Mento, G. (2022) Can faces affect object-based attention? Evidence from online experiments. *Atten Percept Psychophys*. [DOI](https://doi.org/10.3758/s13414-022-02473-8)
+
+Scholl J, Trier HA, Rushworth MFS, Kolling N (2022) The effect of apathy and compulsivity on planning and stopping in sequential decision-making. *PLOS Biology* [DOI](https://doi.org/10.1371/journal.pbio.3001566)
+
+Levinson, M., Baillet, S. (2022) Perceptual filling-in dispels the veridicality problem of conscious perception research, *Consciousness and Cognition* [DOI](https://doi.org/10.1016/j.concog.2022.103316)
+
+Huang, C., Donk, M., & Theeuwes, J. (2022). Proactive enhancement and suppression elicited by statistical regularities in visual search. *Journal of Experimental Psychology: Human Perception and Performance*. [DOI](https://doi.org/10.1037/xhp0001002)
+
+Jevtović, M., Antzaka, A., & Martin, C. D. (2022). Gepo with a G, or Jepo with a J? Skilled Readers Generate Orthographic Expectations for Novel Spoken Words Even When Spelling is Uncertain. *Cognitive Science* [DOI](https://doi.org/10.1111/cogs.13118)
+
+Drewes, L., Nissen, V. Akzeptierte Geschäftsprozesse gestalten und implementieren. (2022) *HMD* [DOI](https://doi.org/10.1365/s40702-022-00856-x)
+
+Roquet, A., Lallement, C. & Lemaire, P. Sequential modulations of emotional effects on cognitive performance in young and older adults. *Motiv Emot* (2022). [DOI](https://doi.org/10.1007/s11031-022-09932-7)
+  
+Quent JA, Henson RN. Novel immersive virtual reality experiences do not produce retroactive memory benefits for unrelated material. (2022) *Quarterly Journal of Experimental Psychology*. [DOI](http://dx.doi.org/10.1177/17470218221082491)
+
+Li, A.-S., Bogaerts, L., & Theeuwes, J. (2022). Statistical learning of across-trial regularities during serial search. *Journal of Experimental Psychology: Human Perception and Performance*. [DOI](http://dx.doi.org/10.1037/xhp0000987)
+
+Verkhodanova, V., Coler, M., Jonkers, R., Timmermans, S., Maurits, N., de Jong, B., Lowie, W. (2022) A cross-linguistic perspective to classification of healthiness of speech in Parkinson's disease. *Journal of Neurolinguistics* [DOI](https://doi.org/10.1016/j.jneuroling.2022.101068)
+
+Rouy, M., de Gardelle, V., Reyes, G., Sackur, J., Vergnaud, J. C., Filevich, E., & Faivre, N. (2022). Metacognitive improvement: Disentangling adaptive training from experimental confounds. *Journal of Experimental Psychology: General*. [DOI](https://doi.org/10.1037/xge0001185)
+
+Gao, Y., Theeuwes, J. (2022) Learning to suppress a location does not depend on knowing which location. *Atten Percept Psychophys* [DOI](https://doi.org/10.3758/s13414-021-02404-z)
+
+Dijkstra, N., Kok, P., & Fleming, S. M. (2022). Imagery adds stimulus-specific sensory evidence to perceptual detection. *Journal of Vision*. [DOI](https://doi.org/10.1167/jov.22.2.11)
+
+
+Jusepeitis, A., & Rothermund, K. (2022). No elephant in the room: The incremental validity of implicit self-esteem measures. *Journal of Personality*. [DOI](https://doi.org/10.1111/jopy.12705)
+
+Bogaerts, L., van Moorselaar, D., & Theeuwes, J. (2022). Does it help to expect distraction? Attentional capture is attenuated by high distractor frequency but not by trial-to-trial predictability. *Journal of Experimental Psychology: Human Perception and Performance*. [DOI](https://doi.org/10.1037/xhp0000986)
+
+Lacassagne, D., Béna, J., Corneille, O. (2022). Is Earth a perfect square? Repetition increases the perceived truth of highly implausible statements. *Cognition* [DOI](https://doi.org/10.1016/j.cognition.2022.105052)
+
+Béna, J. & Corneille, O. (2022). Revisiting Dissociation Hypotheses with a Structural fit Approach: The Case of the Prepared Reflex Framework. *Journal of Experimental Social Psychology*. [DOI](10.1016/j.jesp.2022.104297)
+
+Scaltritti, M., Job, R. & Sulpizio, S. (2022) Different types of semantic interference, same lapses of attention: Evidence from Stroop tasks. *Mem Cogn*. [DOI](https://doi.org/10.3758/s13421-021-01256-0)
+
+Zhang J, Wu Y. (2022) Epistemic reasoning in pragmatic inferencing by non-native speakers: The case of scalar implicatures. *Second Language Research*. [DOI](doi:10.1177/02676583211069735)
+
+Vandendaele, A., Grainger, J. (2022). Now you see it, now you don't: Flanker presence induces the word concreteness effect. *Cognition* [DOI](10.1016/j.cognition.2021.104945).
 
 
 ### 2021
