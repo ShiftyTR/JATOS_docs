@@ -12,7 +12,7 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 
 ### 2022
-Lauren A. Homann, Brady R. T. Roberts, Sara Ahmed & Myra A. Fernandes (2022) Are emojis processed visuo-spatially or verbally? Evidence for dual codes *Visual Cognition* (DOI)[https://doi.org/10.1080/13506285.2022.2050871]
+Lauren A. Homann, Brady R. T. Roberts, Sara Ahmed & Myra A. Fernandes (2022) Are emojis processed visuo-spatially or verbally? Evidence for dual codes *Visual Cognition* [DOI](https://doi.org/10.1080/13506285.2022.2050871)
 
 
 Marocchini E., Domaneschi F. (2022) “Can you read my mind?” Conventionalized indirect requests and Theory of Mind abilities *Journal of Pragmatics* [DOI](https://doi.org/10.1016/j.pragma.2022.03.011)
