@@ -82,18 +82,6 @@ http {
                         proxy_read_timeout      7d;
                 }
 
-                # restrict access to JATOS' GUI to local network
-                #location /jatos {
-                #       allow           192.168.1.0/24;
-                #       deny            all;
-                #       proxy_pass      http://jatos-backend;
-                #}
-
-                # all other traffic
-                location / {
-                        proxy_pass              http://jatos-backend;
-                }
-                
                 # restrict access to JATOS' GUI to local network 192.168.1.*
                 #location /jatos {
                 #       allow                   192.168.1.0/24;
