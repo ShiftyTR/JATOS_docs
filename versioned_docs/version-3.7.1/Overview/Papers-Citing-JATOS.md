@@ -12,6 +12,9 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022
 
+Sauter, M., Stefani, M. & Mack, W. "Equal Quality for Online and Lab Data: A Direct Comparison from Two Dual-Task Paradigms" *Open Psychology* [DOI](https://doi.org/10.1515/psych-2022-0003)
+
+
 Diana, F., Kawahara, M., Saccardi, I., Hortensius, R., Tanaka, A., & Kret, M. (2022). Implicit and explicit attitudes towards artificial agents: a cross-cultural comparison. *PsyArXiv* [DOI](https://doi.org/10.31234/osf.io/zu3pe)
 
 Lauren A. Homann, Brady R. T. Roberts, Sara Ahmed & Myra A. Fernandes (2022) Are emojis processed visuo-spatially or verbally? Evidence for dual codes *Visual Cognition* [DOI](https://doi.org/10.1080/13506285.2022.2050871)
