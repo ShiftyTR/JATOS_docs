@@ -10,7 +10,8 @@ The following two configs are the content of `/etc/nginx/nginx.conf`. Change the
 
 As an additional security measurement you can uncomment the `location /jatos` and config your local network. This will restrict the access to JATOS' GUI (every URL starting with `/jatos`) to the local network.
 
-A JATOS server that handles sensitive or private data should always use encryption (HTTPS).
+A JATOS server that handles sensitive or private data should always use encryption (HTTPS). A nice free certificate issuer is [certbot.eff.org](https://certbot.eff.org/) from the Electronic Frontier Foundation.
+
 
 ## With HTTPS
 
