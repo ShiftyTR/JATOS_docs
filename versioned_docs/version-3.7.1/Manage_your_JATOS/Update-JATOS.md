@@ -40,6 +40,8 @@ JATOS uses Java 11 - older versions use Java 8. Future versions will likely requ
 
 ### Specify a version
 
+Sometimes, for whatever reasons, JATOS doesn't autmatically detect new versions then you can still start the update by specifying the version.
+
 **It is usually destructive to update JATOS to a lower version than is currently installed. It's highly recommended to use a higher version (or the same). Use at your own risk.**
 
 The parameter `version` can be added to the JATOS administration page's URL. It takes the version tag as specified in [GitHub](https://github.com/JATOS/JATOS/releases) and enforces an update to this version. E.g. if your domain is `my.jatos.org` and the version you want to update to is `v3.7.4` (don't forget the 'v'), than the URL for your browser is `https://my.jatos.org/jatos/admin?version=v3.7.4`. The rest of the update procedure is like the [Normal Process](#normal-process): you will be ask for conirmation twice.
