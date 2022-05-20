@@ -12,6 +12,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022
 
+Frances, C., Navarra-Barindelli E., Martin C.D. (2022) Speaker Accent Modulates the Effects of Orthographic and Phonological Similarity on Auditory Processing by Learners of English. *Frontiers in Psychology* [DOI](https://doi.org/10.3389/fpsyg.2022.892822)  
+
 Ciston, A.B., Forster, C. Brick, TR.,Kühn, S., Verrel, J., Filevich, E. (2022) Do I look like I'm sure?: Partial metacognitive access to the low-level aspects of one's own facial expressions. *Cognition* [DOI](https://doi.org/10.1016/j.cognition.2022.105155)
 
 Sauter, M., Stefani, M. & Mack, W. "Equal Quality for Online and Lab Data: A Direct Comparison from Two Dual-Task Paradigms" *Open Psychology* [DOI](https://doi.org/10.1515/psych-2022-0003)
