@@ -11,6 +11,9 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+
+Everhardt, M., Sarampalis, A., Coler, M., Baskent, D., Lowie, W. (2022) Interpretation of prosodically marked focus in cochlear implant-simulated speech by non-native listeners. *Proc. Speech Prosody*. [DOI](https://doi.org/10.21437/SpeechProsody.2022-15)
+
 Palmer, C.J., Goddard, E., Clifford, C.W.G. (2022) Face detection from patterns of shading and shadows: The role of overhead illumination in generating the familiar appearance of the human face. *Cognition* [DOI](https://doi.org/10.1016/j.cognition.2022.105172)
 
 Frances, C., Navarra-Barindelli E., Martin C.D. (2022) Speaker Accent Modulates the Effects of Orthographic and Phonological Similarity on Auditory Processing by Learners of English. *Frontiers in Psychology* [DOI](https://doi.org/10.3389/fpsyg.2022.892822)  
