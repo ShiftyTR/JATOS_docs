@@ -12,6 +12,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022
 
+Rahe, M., Weigelt, M., Jansen, P. Mental rotation with colored cube figures. *Consciousness and Cognition* [DOI](https://doi.org/10.1016/j.concog.2022.103350)
+
 Everhardt, M., Sarampalis, A., Coler, M., Baskent, D., Lowie, W. (2022) Interpretation of prosodically marked focus in cochlear implant-simulated speech by non-native listeners. *Proc. Speech Prosody*. [DOI](https://doi.org/10.21437/SpeechProsody.2022-15)
 
 Palmer, C.J., Goddard, E., Clifford, C.W.G. (2022) Face detection from patterns of shading and shadows: The role of overhead illumination in generating the familiar appearance of the human face. *Cognition* [DOI](https://doi.org/10.1016/j.cognition.2022.105172)
