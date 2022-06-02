@@ -12,6 +12,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022
 
+Rosi, V., Houix, O. Misdariis, N., Susini, P. (2022) Investigating the Shared Meaning of Metaphorical Sound Attributes: Bright, Warm, Round, and Rough. *Music Perception* [DOI](https://doi.org/10.1525/mp.2022.39.5.468)
+
 Rahe, M., Weigelt, M., Jansen, P. Mental rotation with colored cube figures. *Consciousness and Cognition* [DOI](https://doi.org/10.1016/j.concog.2022.103350)
 
 Everhardt, M., Sarampalis, A., Coler, M., Baskent, D., Lowie, W. (2022) Interpretation of prosodically marked focus in cochlear implant-simulated speech by non-native listeners. *Proc. Speech Prosody*. [DOI](https://doi.org/10.21437/SpeechProsody.2022-15)
