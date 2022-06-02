@@ -11,6 +11,7 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+Ringer, H., Schröger, E., Grimm, S. (2022) Perceptual Learning and Recognition of Random Acoustic Patterns *Auditory Perception & Cognition* [DOI](http://doi.org/10.1080/25742442.2022.2082827)
 
 Rosi, V., Houix, O. Misdariis, N., Susini, P. (2022) Investigating the Shared Meaning of Metaphorical Sound Attributes: Bright, Warm, Round, and Rough. *Music Perception* [DOI](https://doi.org/10.1525/mp.2022.39.5.468)
 
