@@ -11,6 +11,11 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+
+Donato R, Pavan A, Cavallin G, Ballan L, Betteto L, Nucci M, Campana G. (2022) Mechanisms Underlying Directional Motion Processing and Form-Motion Integration Assessed with Visual Perceptual Learning. *Vision* [DOI](https://doi.org/10.3390/vision6020029)
+
+Appelganc K, Rieger T, Roesler E, Manzey D. (2022) How Much Reliability Is Enough? A Context-Specific View on Human Interaction With (Artificial) Agents From Different Perspectives. *Journal of Cognitive Engineering and Decision Making* [DOI](https://doi.org/doi:10.1177/15553434221104615)
+
 Ringer, H., Schröger, E., Grimm, S. (2022) Perceptual Learning and Recognition of Random Acoustic Patterns *Auditory Perception & Cognition* [DOI](http://doi.org/10.1080/25742442.2022.2082827)
 
 Rosi, V., Houix, O. Misdariis, N., Susini, P. (2022) Investigating the Shared Meaning of Metaphorical Sound Attributes: Bright, Warm, Round, and Rough. *Music Perception* [DOI](https://doi.org/10.1525/mp.2022.39.5.468)
