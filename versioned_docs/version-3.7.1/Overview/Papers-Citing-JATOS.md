@@ -11,6 +11,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+Reichardt, R., Polner, B. & Simor, P. (2022) The graded novelty encoding task: Novelty gradually improves recognition of visual stimuli under incidental learning conditions. *Behav Res* [DOI](https://doi.org/10.3758/s13428-022-01891-8)
+
 Lovibond, P. F., Chow, J. Y. L., Tobler, C., & Lee, J. C. (2022). Reversal of inhibition by no-modulation training but not by extinction in human causal learning. *Journal of Experimental Psychology: Animal Learning and Cognition* Advance online publication. [DOI](https://doi.org/10.1037/xan0000328)
 
 Donato R, Pavan A, Cavallin G, Ballan L, Betteto L, Nucci M, Campana G. (2022) Mechanisms Underlying Directional Motion Processing and Form-Motion Integration Assessed with Visual Perceptual Learning. *Vision* [DOI](https://doi.org/10.3390/vision6020029)
