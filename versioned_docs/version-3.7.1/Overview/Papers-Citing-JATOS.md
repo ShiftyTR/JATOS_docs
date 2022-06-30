@@ -11,6 +11,9 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+  
+Schreiner MR, Meiser T, Bröder A. (2022) The binding structure of event elements in episodic memory and the role of animacy. *Quarterly Journal of Experimental Psychology* [DOI](doi:10.1177/17470218221096148) 
+
 Salava, A. and Salmela, V. (2022) Perceptual learning modules in undergraduate dermatology teaching. *Clin Exp Dermatol.* [DOI](https://doi.org/10.1111/ced.15201)
 
 Reichardt, R., Polner, B. & Simor, P. (2022) The graded novelty encoding task: Novelty gradually improves recognition of visual stimuli under incidental learning conditions. *Behav Res* [DOI](https://doi.org/10.3758/s13428-022-01891-8)
