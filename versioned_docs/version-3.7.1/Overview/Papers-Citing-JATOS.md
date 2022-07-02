@@ -12,6 +12,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022
   
+Rieger T, Manzey D. (2022) Understanding the Impact of Time Pressure and Automation Support in a Visual Search Task. *Human Factors*. [DOI](doi:10.1177/00187208221111236)
+  
 Schreiner MR, Meiser T, Bröder A. (2022) The binding structure of event elements in episodic memory and the role of animacy. *Quarterly Journal of Experimental Psychology* [DOI](doi:10.1177/17470218221096148) 
 
 Salava, A. and Salmela, V. (2022) Perceptual learning modules in undergraduate dermatology teaching. *Clin Exp Dermatol.* [DOI](https://doi.org/10.1111/ced.15201)
