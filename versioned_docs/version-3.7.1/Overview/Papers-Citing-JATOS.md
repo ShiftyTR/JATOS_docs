@@ -11,6 +11,7 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+Norden M, Hofmann A, Meier M, Balzer F, Wolf O, Böttinger E, Drimalla H. Inducing and Recording Acute Stress Responses on a Large Scale With the Digital Stress Test (DST): Development and Evaluation Study. *J Med Internet Res* [DOI](https://www.jmir.org/2022/7/e32280)
 
 Henke, L., Guseva, M., Wagemans, K. et al. Surgical face masks do not impair the decoding of facial expressions of negative affect more severely in older than in younger adults. *Cogn. Research*. [DOI](https://doi.org/10.1186/s41235-022-00403-8)
   
