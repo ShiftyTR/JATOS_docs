@@ -11,9 +11,11 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
-Norden M, Hofmann A, Meier M, Balzer F, Wolf O, Böttinger E, Drimalla H. Inducing and Recording Acute Stress Responses on a Large Scale With the Digital Stress Test (DST): Development and Evaluation Study. *J Med Internet Res* [DOI](https://www.jmir.org/2022/7/e32280)
+Kobzeva A, Sant C, Robbins PT, Vos M, Lohndal T, Kush D. (2022) Comparing Island Effects for Different Dependency Types in Norwegian. *Languages* [DOI](https://doi.org/10.3390/languages7030197)
 
-Henke, L., Guseva, M., Wagemans, K. et al. Surgical face masks do not impair the decoding of facial expressions of negative affect more severely in older than in younger adults. *Cogn. Research*. [DOI](https://doi.org/10.1186/s41235-022-00403-8)
+Norden M, Hofmann A, Meier M, Balzer F, Wolf O, Böttinger E, Drimalla H. (2022) Inducing and Recording Acute Stress Responses on a Large Scale With the Digital Stress Test (DST): Development and Evaluation Study. *J Med Internet Res* [DOI](https://www.jmir.org/2022/7/e32280)
+
+Henke, L., Guseva, M., Wagemans, K. et al. (2022) Surgical face masks do not impair the decoding of facial expressions of negative affect more severely in older than in younger adults. *Cogn. Research*. [DOI](https://doi.org/10.1186/s41235-022-00403-8)
   
 Rieger T, Manzey D. (2022) Understanding the Impact of Time Pressure and Automation Support in a Visual Search Task. *Human Factors*. [DOI](doi:10.1177/00187208221111236)
   
