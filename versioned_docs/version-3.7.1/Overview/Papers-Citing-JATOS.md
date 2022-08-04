@@ -11,6 +11,13 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+Daoultzis, KC., & Kordoutis, P. (2022) A Pilot Study Testing A New Visual Stimuli Database for Probing Men’s Gender Role Conflict: GRASP (Gender Role Affective Stimuli Pool) *Journal of Homosexuality* [DOI](https://doi.org/10.1080/00918369.2022.2104147)
+
+Chen, X., Hartsuiker, RJ., Muylle, M., Slim, MS., Zhang, C. (2022) The effect of animacy on structural Priming: A replication of Bock, Loebell and Morey (1992) *Journal of Memory and Language* [DOI](https://doi.org/10.1016/j.jml.2022.104354)
+
+Witek, M., Kwiecień, S. Włodarczyk, M., Wrzosek, M., Bondek, J. (2022) Prosody in recognizing dialogue-specific functions of speech acts. Evidence from Polish.
+*Language Sciences* [DOI](https://doi.org/10.1016/j.langsci.2022.101499)
+
 Kobzeva A, Sant C, Robbins PT, Vos M, Lohndal T, Kush D. (2022) Comparing Island Effects for Different Dependency Types in Norwegian. *Languages* [DOI](https://doi.org/10.3390/languages7030197)
 
 Norden M, Hofmann A, Meier M, Balzer F, Wolf O, Böttinger E, Drimalla H. (2022) Inducing and Recording Acute Stress Responses on a Large Scale With the Digital Stress Test (DST): Development and Evaluation Study. *J Med Internet Res* [DOI](https://www.jmir.org/2022/7/e32280)
@@ -115,6 +122,8 @@ Gorin, S. (2021). EXPRESS: Temporal grouping effects in verbal and musical short
 van Moorselaar, D., Theeuwes, J. (2021) Spatial suppression due to statistical regularities in a visual detection task. *Atten Percept Psychophys.* [DOI](https://doi.org/10.3758/s13414-021-02330-0)
 
 Del Popolo Cristaldi, F., Gambarota, F., & Oosterwijk, S. (2021). The role of previous visual experience in subjective reactions to new affective pictures and sounds. *PsyArXiv* [DOI](https://doi.org/10.31234/osf.io/z4mgh)
+
+Lallement, C. & Lemaire, P. (2021) Age-related differences in how negative emotions influence arithmetic performance, *Cognition and Emotion* [DOI](10.1080/02699931.2021.1967884)
 
 Mazor, M., Moran, R., Fleming, SM. (2021) Metacognitive asymmetries in visual perception, *Neuroscience of Consciousness*, Volume 2021, Issue 1, 2021, niab005, [DOI](https://doi.org/10.1093/nc/niab005)
 
