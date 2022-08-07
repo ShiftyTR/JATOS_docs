@@ -11,6 +11,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+Contemori, G., Saccani, MS., Bonato, M. (2022) Multitasking Effects on Perceptionand Memory in Older Adults. *Vision* [DOI](https://doi.org/10.3390/vision6030048)
+
 Daoultzis, KC., & Kordoutis, P. (2022) A Pilot Study Testing A New Visual Stimuli Database for Probing Men’s Gender Role Conflict: GRASP (Gender Role Affective Stimuli Pool) *Journal of Homosexuality* [DOI](https://doi.org/10.1080/00918369.2022.2104147)
 
 Chen, X., Hartsuiker, RJ., Muylle, M., Slim, MS., Zhang, C. (2022) The effect of animacy on structural Priming: A replication of Bock, Loebell and Morey (1992) *Journal of Memory and Language* [DOI](https://doi.org/10.1016/j.jml.2022.104354)
