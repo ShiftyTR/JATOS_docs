@@ -28,7 +28,7 @@ Norden M, Hofmann A, Meier M, Balzer F, Wolf O, Böttinger E, Drimalla H. (2022)
 
 Henke, L., Guseva, M., Wagemans, K. et al. (2022) Surgical face masks do not impair the decoding of facial expressions of negative affect more severely in older than in younger adults. *Cogn. Research*. [DOI](https://doi.org/10.1186/s41235-022-00403-8)
   
-Rieger T, Manzey D. (2022) Understanding the Impact of Time Pressure and Automation Support in a Visual Search Task. *Human Factors*. [DOI](doi:10.1177/00187208221111236)
+Rieger T, Manzey D. (2022) Understanding the Impact of Time Pressure and Automation Support in a Visual Search Task. *Human Factors*. [DOI](https://doi.org/10.1177/00187208221111236)
   
 Schreiner MR, Meiser T, Bröder A. (2022) The binding structure of event elements in episodic memory and the role of animacy. *Quarterly Journal of Experimental Psychology* [DOI](doi:10.1177/17470218221096148) 
 
