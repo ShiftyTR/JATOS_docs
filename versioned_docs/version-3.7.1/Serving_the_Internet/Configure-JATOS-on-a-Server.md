@@ -47,6 +47,12 @@ JATOS can be configured to use an base path. E.g we have the host "www.example.o
    ~~~shell
    play.http.context = "/mybasepath/"
    ~~~
+   
+1. Via the environment variable `JATOS_URL_BASE_PATH`, e.g.
+
+   ~~~shell
+   export JATOS_URL_BASE_PATH="/mybasepath/"
+   ~~~
 
 **The path always has to start and end with a "/".** And keep in mind that if you add a base path to JATOS' URL you have to adjust all absolute paths to the study assets (in HTML and JavaScript files) too - [or use relative paths](Adapt-pre-written-code-to-run-it-in-JATOS.html#create-the-study-in-jatos) (which is recommended anyway).
 
