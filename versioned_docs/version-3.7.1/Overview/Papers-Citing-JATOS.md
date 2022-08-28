@@ -11,6 +11,10 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022
+Coy N., Bendixen, A., Grimm, S., Roeber, U., & Schröger, E. (2022) Is the Oddball Just an Odd-One-Out? The Predictive Value of Rule-Violating Events *Auditory Perception & Cognition* [DOI](https://doi.org/10.1080/25742442.2022.2094657)
+
+Yildirim, B., Kurdoglu-Ersoy P., Kapucu A., & Tekozel, M. (2022) Is there an infidelity-based reproductive processing advantage in adaptive memory? Effects of survival processing and jealousy processing on recall performance. *Journal of Cognitive Psychology* [DOI](https://doi.org/10.1080/20445911.2022.2090948)
+
 Del Popolo Cristaldi, F., Granziol, U., Bariletti, I., Mento, G. (2022) Doing Experimental Psychological Research from Remote: How Alerting Differently Impacts Online vs. Lab Setting. *Brain Sci.* [DOI](https://doi.org/10.3390/brainsci12081061)
 
 Contemori, G., Saccani, MS., Bonato, M. (2022) Multitasking Effects on Perceptionand Memory in Older Adults. *Vision* [DOI](https://doi.org/10.3390/vision6030048)
