@@ -11,6 +11,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022 
+Tsang, K. Y., & Mannion, D. J. (2022). Relating Sound and Sight in Simulated Environments. M*ultisensory Research* [DOI](https://doi.org/10.1163/22134808-bja10082)
+
 Kahan TA, Slowiaczek LM, Harrison AC, Bogue CM. (2022) Temporal and sequential negative priming generalise across visual and auditory modalities and are dependent on relative rather than absolute speed. *Quarterly Journal of Experimental Psychology* [DOI](https://doi.org/10.1177/17470218221100248)
 
 Coy N., Bendixen, A., Grimm, S., Roeber, U., & Schröger, E. (2022) Is the Oddball Just an Odd-One-Out? The Predictive Value of Rule-Violating Events *Auditory Perception & Cognition* [DOI](https://doi.org/10.1080/25742442.2022.2094657)
