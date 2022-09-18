@@ -11,6 +11,9 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022 
+
+Radović T, Rieger T and Manzey D (2022) A global and local perspective of interruption frequency in a visual search task. *Front. Psychol.* [DOI](https://doi.org/10.3389/fpsyg.2022.951048)
+
 Vos, M., Minor, S., & Ramchand, G. C. (2022). Comparing infrared and webcam eye tracking in the Visual World Paradigm. *Glossa Psycholinguistics* [DOI](http://dx.doi.org/10.5070/G6011131)
 
 Tsang, K. Y., & Mannion, D. J. (2022). Relating Sound and Sight in Simulated Environments. M*ultisensory Research* [DOI](https://doi.org/10.1163/22134808-bja10082)
