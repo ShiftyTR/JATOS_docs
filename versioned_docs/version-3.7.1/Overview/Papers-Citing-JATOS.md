@@ -12,6 +12,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022 
 
+Kessler, Y., Rozanis, M. (2022) Task cues are quickly updated into working memory as part of their processing: The multiple-cue task-switching paradigm. *Psychon Bull Rev*. [DOI](https://doi.org/10.3758/s13423-022-02186-x)
+
 Radović T, Rieger T and Manzey D (2022) A global and local perspective of interruption frequency in a visual search task. *Front. Psychol.* [DOI](https://doi.org/10.3389/fpsyg.2022.951048)
 
 Vos, M., Minor, S., & Ramchand, G. C. (2022). Comparing infrared and webcam eye tracking in the Visual World Paradigm. *Glossa Psycholinguistics* [DOI](http://dx.doi.org/10.5070/G6011131)
