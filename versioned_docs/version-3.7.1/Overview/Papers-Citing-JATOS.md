@@ -12,6 +12,8 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 
 ### 2022 
 
+Diana, F., Kawahara, M., Saccardi, I. et al. (2022) A Cross-Cultural Comparison on Implicit and Explicit Attitudes Towards Artificial Agents. *Int J of Soc Robotics*. [DOI](https://doi.org/10.1007/s12369-022-00917-7)
+
 Kessler, Y., Rozanis, M. (2022) Task cues are quickly updated into working memory as part of their processing: The multiple-cue task-switching paradigm. *Psychon Bull Rev*. [DOI](https://doi.org/10.3758/s13423-022-02186-x)
 
 Radović T, Rieger T and Manzey D (2022) A global and local perspective of interruption frequency in a visual search task. *Front. Psychol.* [DOI](https://doi.org/10.3389/fpsyg.2022.951048)
