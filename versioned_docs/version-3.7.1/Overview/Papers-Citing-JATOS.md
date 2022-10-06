@@ -11,6 +11,7 @@ Please [cite us](http://journals.plos.org/plosone/article?id=10.1371/journal.pon
 **Please complete our short [survey](https://forms.gle/Jtjw4LxpyWVFEtG17) on how (much) you use JATOS (ca. 3 min). It’s very important for us!**
 
 ### 2022 
+Kessler, Y., & Rozanis, M. (2022). Task cues are quickly updated into working memory as part of their processing: The multiple-cue task switching paradigm. *PsyArXiv* [DOI](https://doi.org/10.31234/osf.io/9kw3b)
 
 Belo, J., Clerc, M., Schön, D. (2022) Attentional inhibition ability predicts neural representation during challenging auditory streaming. *bioRxiv* [DOI](https://doi.org/10.1101/2022.09.29.510226)
 
