@@ -38,6 +38,18 @@ But first some general advice:
 
 More information on [https://ngrok.com](https://ngrok.com/).
 
+## localtonet.com
+
+1. Download & setup localtonet: [https://localtonet.com/#downloads](https://localtonet.com/#downloads)
+2. Create account on localtonet.com and go dashboard copy authtoken
+3. Start your local JATOS
+4. Start localtonet app
+5. Paste your authtoken
+6. Go [https://localtonet.com/tunnel/http](https://localtonet.com/tunnel/http)
+7. Write port 9000 click create
+8. Then click start
+
+More information on [https://localtonet.com](https://localtonet.com)
 
 ## localhost.run
 
